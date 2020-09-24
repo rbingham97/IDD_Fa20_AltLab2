@@ -26,7 +26,7 @@ As stated above, I will be using OSH Park because I would like to avoid internat
 ## Part B. Order parts for your Arduino+
 Develop a bill of materials for your Arduino +.
 
-currently unsure of how to populate a BOM for the parts that are already on the UNO design. 
+The BOM is [here](https://docs.google.com/spreadsheets/d/13ZLDKvZiJl-q5SsaYknf0bL7EgukQXHj2ZPbL3EwHSE/edit?usp=sharing).
 
 
 ## Part C. Prototype your Arduino+
@@ -41,7 +41,7 @@ My EAGLE files are stored in this repository. I managed to fit the new part into
 
 ## Part E. Send your board off to be made
 
-Still getting there on this, am meeting with Ilan tomorrow. 
+Decided not to fab this version of the board, but am planning to fab a board for my project to get the learning. 
 
 ## Part F. Pain Points
 
